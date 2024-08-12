@@ -127,4 +127,18 @@ Native Usage:
 - Music: "Their new album is full of bangers; every track is a hit."
 - Events:"The party last night was a banger; everyone had an amazing time."`,
   },
+    {
+    word: 'Rizz',
+    explanation: ` "রিজ" (Rizz) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় কারো আকর্ষণীয়তা, চমৎকার বাচনভঙ্গি, বা সামাজিক ক্ষমতা বর্ণনা করতে। এটি বিশেষ করে ব্যবহার করা হয় যখন কেউ অন্যদের কাছে বিশেষভাবে প্রভাবশালী বা মজারভাবে সামাজিকভাবে সফল হয়।
+
+English:
+"He has so much rizz; everyone at the party was drawn to him."
+
+Bangla:
+"তার অনেক রিজ আছে; পার্টির সব মানুষ তার প্রতি আকৃষ্ট হয়েছিল।"
+
+Native Usage:
+- Social Skills: "She used her rizz to charm everyone at the networking event."
+- Dating: "His rizz was evident on the date; he was effortlessly charming and engaging."`,
+  },
 ]
