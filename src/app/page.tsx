@@ -33,7 +33,17 @@ export default function Home() {
                     </DialogTrigger>
                     <DialogContent className='max-w-[90vw]'>
                       <DialogTitle>{wordItem.word}</DialogTitle>
-                      <p className='text-base'>{wordItem.explanation}</p>
+                      <p
+                        className='text-base'
+                        style={{
+                          whiteSpace: 'pre-wrap',
+                          wordWrap: 'break-word',
+                          overflowWrap: 'break-word',
+                          margin: 0,
+                        }}
+                      >
+                        {wordItem.explanation}
+                      </p>
                     </DialogContent>
                   </Dialog>
                 </>
