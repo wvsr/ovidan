@@ -10,7 +10,9 @@ export default function Home() {
   return (
     <main className='w-full'>
       <div className='flex justify-center items-center w-full px-4 py-8'>
-        <h1 className='text-4xl'>বাংলা GenZ অভিধান</h1>
+        <h1 className='text-4xl text-center'>
+          বাংলা GenZ <br /> অভিধান
+        </h1>
       </div>
 
       <div className='h-32 md:max-h-64 md:h-full overflow-hidden'>
