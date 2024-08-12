@@ -1,8 +1,46 @@
+import { words } from '@/data/words'
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from '@/components/ui/dialog'
+
 export default function Home() {
   return (
     <main className='w-full'>
-      <div className='flex justify-center items-center w-full'>
+      <div className='flex justify-center items-center w-full px-4 py-4'>
         <h1 className='text-4xl'>বাংলা অভিধান</h1>
+      </div>
+
+      <div className='px-5 py-10'>
+        <section className='container mx-2 sm:mx-auto max-w-screen-xl'>
+          <div className='grid gap-4 grid-col-span-1 sm:grid-cols-2 md:grid-cols-3'>
+            {words.map((wordItem, idx) => {
+              return (
+                <>
+                  <Dialog>
+                    <DialogTrigger>
+                      <div
+                        key={idx}
+                        className='space-y-3 bg-[#2e2e2e] px-3 py-2 rounded-xl h-28 flex justify-center items-center'
+                      >
+                        <div>
+                          <p className='text-xl font-bold'>{wordItem.word}</p>
+                        </div>
+                      </div>
+                    </DialogTrigger>
+                    <DialogContent className='max-w-[90vw] md:max-w-xl'>
+                      <DialogTitle>{wordItem.word}</DialogTitle>
+                      <p className='text-base'>{wordItem.explanation}</p>
+                    </DialogContent>
+                  </Dialog>
+                </>
+              )
+            })}
+          </div>
+        </section>
       </div>
     </main>
   )
