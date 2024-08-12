@@ -10,7 +10,7 @@ import {
 export default function Home() {
   return (
     <main className='w-full'>
-      <div className='flex justify-center items-center w-full px-4 py-4'>
+      <div className='flex justify-center items-center w-full px-4 py-8'>
         <h1 className='text-4xl'>বাংলা অভিধান</h1>
       </div>
 
@@ -24,14 +24,14 @@ export default function Home() {
                     <DialogTrigger>
                       <div
                         key={idx}
-                        className='space-y-3 bg-[#2e2e2e] px-3 py-2 rounded-xl h-32 flex justify-center items-center hover:scale-95 transition-all duration-200'
+                        className='space-y-3 bg-[#2e2e2e] px-3 py-4 rounded-xl h-32 flex justify-center items-center hover:scale-95 transition-all duration-200'
                       >
                         <div>
-                          <p className='text-xl font-bold'>{wordItem.word}</p>
+                          <p className='text-2xl font-bold'>{wordItem.word}</p>
                         </div>
                       </div>
                     </DialogTrigger>
-                    <DialogContent className='max-w-[90vw]'>
+                    <DialogContent className='max-w-[90vw] md:max-w-lg'>
                       <DialogTitle>{wordItem.word}</DialogTitle>
                       <p
                         className='text-base'

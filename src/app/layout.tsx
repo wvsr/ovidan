@@ -1,6 +1,18 @@
 import type { Metadata } from 'next'
 import Head from 'next/head'
 import './globals.css'
+import { Poppins } from '@next/font/google'
+import { Hind_Siliguri } from '@next/font/google'
+
+const poppins = Poppins({
+  subsets: ['latin'],
+  weight: ['400', '700'], // Specify the weights you need
+})
+
+const hindSiliguri = Hind_Siliguri({
+  subsets: ['bengali'],
+  weight: ['400', '700'], // Specify the weights you need
+})
 
 export const metadata: Metadata = {
   title: 'GenZ Ovidhan',
@@ -22,7 +34,9 @@ export default function RootLayout({
           rel='stylesheet'
         ></link>
       </Head>
-      <body className='dark'>{children}</body>
+      <body className={`dark ${poppins.className} ${hindSiliguri.className}`}>
+        {children}
+      </body>
     </html>
   )
 }
