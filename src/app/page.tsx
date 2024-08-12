@@ -17,9 +17,9 @@ export default function Home() {
         <img className='w-full' src={BackgroundDoddle.src} />
       </div>
 
-      <div className='px-5 py-10'>
-        <section className='container mx-2 sm:mx-auto max-w-screen-xl'>
-          <div className='grid gap-4 grid-col-span-1 sm:grid-cols-2 md:grid-cols-3'>
+      <div className='px-2 py-10'>
+        <section className='container sm:mx-auto md:max-w-screen-xl'>
+          <div className='grid gap-2 md:gap-4 grid-col-span-1 sm:grid-cols-2 md:grid-cols-3'>
             {words.map((wordItem, idx) => {
               return (
                 <>
