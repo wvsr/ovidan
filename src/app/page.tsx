@@ -24,14 +24,14 @@ export default function Home() {
                     <DialogTrigger>
                       <div
                         key={idx}
-                        className='space-y-3 bg-[#2e2e2e] px-3 py-2 rounded-xl h-28 flex justify-center items-center'
+                        className='space-y-3 bg-[#2e2e2e] px-3 py-2 rounded-xl h-32 flex justify-center items-center hover:scale-95 transition-all duration-200'
                       >
                         <div>
                           <p className='text-xl font-bold'>{wordItem.word}</p>
                         </div>
                       </div>
                     </DialogTrigger>
-                    <DialogContent className='max-w-[90vw] md:max-w-xl'>
+                    <DialogContent className='max-w-[90vw]'>
                       <DialogTitle>{wordItem.word}</DialogTitle>
                       <p className='text-base'>{wordItem.explanation}</p>
                     </DialogContent>
