@@ -43,13 +43,13 @@ export default function Home() {
       </div>
 
       <div className='px-2 py-10'>
-        <div className='flex gap-3 max-w-lg mx-auto py-10'>
+        <div className='flex gap-3 max-w-lg mx-auto py-10 px-6'>
           <Input
             onChange={handleSearch}
             value={textInput}
-            className='bg-[#2e2e2e] py-3 focus:outline-none'
+            className='bg-[#2e2e2e] py-3 focus:outline-none h-12'
           />
-          <Button>Search</Button>
+          <Button size={'lg'}>Search</Button>
         </div>
         <section className='container sm:mx-auto md:max-w-screen-xl'>
           <div className='grid gap-2 md:gap-4 grid-col-span-1 sm:grid-cols-2 md:grid-cols-3'>
