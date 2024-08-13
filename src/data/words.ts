@@ -387,4 +387,38 @@ Native Usage:
 - Workplace: "When your boss gives constructive feedback and supports your growth, that’s a green flag."
 - Dating: "If they make an effort to understand your feelings and show empathy, that’s a big green flag."`,
   },
+  {
+    word: 'Edging',
+    explanation: `Edging একটি স্ল্যাং শব্দ যেখানে যৌন ক্রিয়াকলাপের সময় কেউ ইচ্ছাকৃতভাবে ক্লাইম্যাক্সের (চূড়ান্ত উত্তেজনার) কাছাকাছি গিয়ে, তা ধরে রেখে, অরগাসম (চূড়ান্ত মুহূর্ত) বিলম্ব করে। এটি সাধারণত দীর্ঘ সময় ধরে যৌন উত্তেজনা ভোগ করার জন্য এবং শেষের অভিজ্ঞতাকে তীব্রতর করার জন্য করা হয়।
+
+English:
+"Modon is edging to make the experience more intense."
+
+Bangla:
+"মদন তীব্র উত্তেজনা লাভের আশায় edging করছে।"
+
+Native Usage:
+
+- General Context: "Some people use edging to heighten their pleasure during intimate moments."
+- Health and Wellness: "Edging is sometimes recommended in sexual wellness discussions to improve control and prolong pleasure."
+- Relationships: "They’ve been exploring different techniques, including edging, to enhance their intimacy."
+- Online Discussions: "There’s a lot of talk about the benefits of edging in certain forums and communities."`,
+  },
+  {
+    word: 'Ohio',
+    explanation: `Ohio একটি স্ল্যাং শব্দ যা ইন্টারনেট মিম সংস্কৃতিতে ব্যবহার করা হয়, যেখানে অদ্ভুত, অস্বাভাবিক, বা হাস্যকর পরিস্থিতি বোঝাতে "Ohio" শব্দটি প্রয়োগ করা হয়। এটি এমন কিছু বোঝায় যা সাধারণ নিয়ম বা প্রত্যাশার বাইরে ঘটে, এবং এটি সাধারণত মজার বা উদ্ভট কিছু প্রকাশের জন্য ব্যবহার করা হয়। এই মিমটি "Only in Ohio" বাক্যাংশ থেকে জনপ্রিয় হয়েছে, যেখানে বলা হয় যে শুধুমাত্র ওহাইওতেই এমন অদ্ভুত কিছু ঘটতে পারে। Ohio মূলত আমেরিকার উত্তর-পূর্বের একটি রাজ্য।
+
+English:
+"That strange video of selling dolls in a public toilet looks like something you'd only see in Ohio."
+
+Bangla:
+"ওই পাবলিক টয়লেটে বসে পুতুল বেচার অদ্ভুত ভিডিওটা দেখে মনে হচ্ছে ভাই এটা একমাত্র Ohio-তেই দেখা যেতে পারে।"
+
+Native Usage:
+
+- General Context: "The way that car was driving on the sidewalk—definitely an Ohio moment."
+- Social Media: "This bizarre news story is so weird, it must have happened in Ohio."
+- Pop Culture: "Only in Ohio would you find something this strange and funny."
+- Online Discussions: "People are sharing crazy things and saying, 'That’s so Ohio!'"`,
+  },
 ]
