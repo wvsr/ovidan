@@ -101,13 +101,13 @@ Native Usage:
   },
   {
     word: 'Mogging',
-    explanation: `Mogging একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহার করা হয় যখন কেউ তার অন্যান্যদের তুলনায় কিছু বিশেষভাবে উৎকৃষ্ট বা সুদর্শন হিসেবে প্রদর্শিত হয়। এটি বিশেষত শারীরিক বা সামাজিক প্রভাব বা অবস্থান দেখানোর জন্য ব্যবহৃত হয়। এটি সাধারণত প্রতিযোগিতা বা সাফল্যের মধ্যে নিজেকে প্রাধান্য দেওয়ার ধারণা প্রকাশ করতে ব্যবহৃত হয়।
+    explanation: `Mogging একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহার করা হয় যখন কেউ অন্যান্যদের তুলনায় বিশেষভাবে উৎকৃষ্ট বা সুদর্শন হিসেবে প্রদর্শিত হয়। এটি বিশেষত শারীরিক বা সামাজিক প্রভাব বা স্ট্যাটাস দেখানোর জন্য ব্যবহৃত হয়। প্রতিযোগিতামূলক পরিবেশে নিজেকে বা অন্য কাউকে প্রাধান্য দেওয়ার ধারণা প্রকাশ করে।
 
 English:
 "He's been hitting the gym a lot lately and really mogging everyone with his new physique."
 
 Bangla:
-"সে ইদানিং অনেক জিম করছে এবং তার নতুন দৈহিক গঠন দিয়ে সবাইকে mogging করছে।"
+"সে ইদানিং অনেক জিম করছে এবং তার নব্য দৈহিক গঠন দিয়ে সবাইকে mogging করছে।"
 
 Native Usage:
 
@@ -333,5 +333,21 @@ Native Usage:
 - Social Situations: "At the party, he was constantly following her around and doing everything she wanted—classic simp."
 - Workplace: "He’s always trying to get her attention by doing extra work, even though she doesn’t acknowledge it—definitely a simp."
 - Online: "In the comments section, he’s always praising her posts and defending her, no matter what—he’s a simp."`,
+  },
+  {
+    word: 'Skibidi',
+    explanation: `Skibidi একটি মাল্টিপারপাজ স্ল্যাং শব্দ যা বিনোদনমূলক, উদ্ভট, এবং মজাদার কিছু বোঝাতে ব্যবহৃত হয়। এটি একটি অভিব্যক্তি যা মূলত ইন্টারনেট মিম এবং ভার্চুয়াল সংস্কৃতির মধ্যে ব্যবহৃত হয়। এটি জনপ্রিয় "Skibidi" মিউজিক মিম বা ভিডিও সিরিজ থেকে উদ্ভূত, যেখানে আকর্ষণীয় এবং অদ্ভুত ধাঁচের নাচ এবং সঙ্গীত যুক্ত করা হয়।
+English:
+"That Sakibal Hasan meme video was so funny, it got me in a total skibidi mood."
+
+Bangla:
+"সাকিবাল হাসানের মিম ভিডিওটা এত হাস্যকর ছিল, মুড পুরো skibidi করে দিয়েছে।"
+
+Native Usage:
+
+- General Context: "After watching those skibidi videos, I can't stop laughing—it's just so catchy and weird."
+- Social Situations: "At the party, everyone started doing the skibidi dance—it was hilarious."
+- Online: "This meme is totally skibidi; it’s weird but you can’t stop watching it."
+- Pop Culture: "The skibidi trend has taken over TikTok—everyone's doing it."`,
   },
 ]
