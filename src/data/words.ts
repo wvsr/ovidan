@@ -100,18 +100,21 @@ Native Usage:
 - Impressive Outcome: "They cooked the game with that final move."`,
   },
   {
-    word: 'Mog',
-    explanation: `Mog - "মগ" (Mog) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন একজন ব্যক্তি বা একটি জিনিস অন্যদের তুলনায় অনেক ভালো, উন্নত, বা বেশি প্রভাবশালী হিসেবে বিবেচিত হয়। এটি মূলত নিজেকে বা অন্য কাউকে উচ্চতর স্তরে তুলে ধরার জন্য ব্যবহৃত হয়।
+    word: 'Mogging',
+    explanation: `Mogging একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহার করা হয় যখন কেউ তার অন্যান্যদের তুলনায় কিছু বিশেষভাবে উৎকৃষ্ট বা সুদর্শন হিসেবে প্রদর্শিত হয়। এটি বিশেষত শারীরিক বা সামাজিক প্রভাব বা অবস্থান দেখানোর জন্য ব্যবহৃত হয়। এটি সাধারণত প্রতিযোগিতা বা সাফল্যের মধ্যে নিজেকে প্রাধান্য দেওয়ার ধারণা প্রকাশ করতে ব্যবহৃত হয়।
 
 English:
-"He really mogged everyone at the meeting with his presentation; it was top-notch."
+"He's been hitting the gym a lot lately and really mogging everyone with his new physique."
 
 Bangla:
-"ওই মিটিংয়ে তার প্রেজেন্টেশন দিয়ে সে আসলে সবাইকে mogged করেছে; এটা ছিল অসাধারণ।"
+"সে ইদানিং অনেক জিম করছে এবং তার নতুন দৈহিক গঠন দিয়ে সবাইকে mogging করছে।"
 
 Native Usage:
-- Competitions: "He mogged the competition with his impressive performance."
-- Social Situations: "At the party, she mogged everyone with her stylish outfit and confidence."`,
+
+- General Context: "With his new style and confidence, he’s definitely mogging at the party."
+- Social Situations: "She walked into the event looking stunning—totally mogging everyone else."
+- Workplace: "He’s been outperforming everyone with his skills—definitely mogging the team."
+- Fashion: "Her outfit was on point, and she was mogging everyone at the fashion show."`,
   },
   {
     word: 'Banger',
@@ -190,7 +193,7 @@ Native Usage:
   },
   {
     word: 'TBH',
-    explanation: `TBH একটি স্ল্যাং acronym যা "To Be Honest" এর জন্য ব্যবহৃত হয়। এটি সাধারণত ব্যবহৃত হয় যখন কেউ তার মতামত বা অনুভূতি প্রকাশ করতে চায়, প্রায়ই এটি সরল বা সৎ বক্তব্যের আগে ব্যবহৃত হয়।
+    explanation: `ইংরেজি ভাষায় "TBH" হলো "to be honest" (সত্যি বলতে) এর সংক্ষিপ্ত রূপ। এটি সাধারণত ব্যবহৃত হয় যখন কেউ তার মতামত বা অনুভূতি প্রকাশ করতে চায়, প্রায়ই এটি সরল বা সৎ বক্তব্যের আগে ব্যবহৃত হয়।
 
 English:
 "TBH, I wasn't really impressed with the movie."
