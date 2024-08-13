@@ -19,95 +19,95 @@ bruh" শব্দটি অবাক হওয়া, অবিশ্বাস 
     word: 'Pookie',
     explanation: `Pookie - ইংরেজি ভাষায় "pookie" শব্দটি সাধারণত স্নেহের সাথে প্রিয়জনকে সম্বোধন করার জন্য ব্যবহৃত হয়। এটি একটি পোষ্য নাম হিসেবে ব্যবহৃত হয়, বিশেষ করে প্রেমিক-প্রেমিকা, স্বামী-স্ত্রী, বা খুব ঘনিষ্ঠ বন্ধুরা একে অপরকে মিষ্টি বা আদর করে ডাকার জন্য ব্যবহার করে থাকে।
 
-*English:*
+English:
 "Hey, Pookie, how was your day?"
 
-*Bangla:*
+Bangla:
 "এই, Pookie, তোমার দিনটা কেমন ছিল?"
 
-"*Pookie*" শব্দটি বিশেষভাবে স্নেহ ও ভালোবাসা প্রকাশ করার জন্য ব্যবহৃত হয়। 
+"Pookie" শব্দটি বিশেষভাবে স্নেহ ও ভালোবাসা প্রকাশ করার জন্য ব্যবহৃত হয়। 
 
-*Love:* "Good night, Pookie. I love you!"
-*Comfort:* "Don't worry, Pookie, everything will be okay."`,
+Love: "Good night, Pookie. I love you!"
+Comfort: "Don't worry, Pookie, everything will be okay."`,
   },
   {
     word: 'TBH',
     explanation: `TBH - ইংরেজি ভাষায় "TBH" হলো "to be honest" (সত্যি বলতে) এর সংক্ষিপ্ত রূপ। এটি সাধারণত ব্যবহার করা হয় যখন কেউ তার সৎ মতামত বা অনুভূতি শেয়ার করতে চায়।
 
-*English:*
+English:
 "TBH, I don't really like that restaurant."
 
-*Bangla:*
+Bangla:
 "TBH, আমি আসলে ওই রেস্তোরাঁটা তেমন পছন্দ করি না।"
 
-*Native Usage:*
-- *Honesty:* "TBH, I wasn’t impressed by the presentation."
-- *Casual:* "TBH, I’m just not into that kind of music."`,
+Native Usage:
+- Honesty: "TBH, I wasn’t impressed by the presentation."
+- Casual: "TBH, I’m just not into that kind of music."`,
   },
   {
     word: 'Rizz',
-    explanation: `Rizz - ইংরেজি ভাষায় "rizz" একটি স্ল্যাং শব্দ যা কারো চার্ম বা এক্সপ্রেসিভ অ্যাবিলিটি বোঝাতে ব্যবহৃত হয়, বিশেষ করে কাউকে প্রভাবিত বা আকৃষ্ট করার ক্ষমতা। এটি সাধারণত রোমান্টিক বা সামাজিক প্রভাব বিস্তারের ক্ষেত্রে ব্যবহার করা হয়।
+    explanation: `Rizz - রিজ (Rizz) একটি স্ল্যাং শব্দ যা কারো আকর্ষণীয়তা, চমৎকার বাচনভঙ্গি, বা সামাজিক ক্ষমতা বোঝাতে ব্যবহৃত হয়; বিশেষ করে কাউকে প্রভাবিত বা আকৃষ্ট করার ক্ষমতা। এটি সাধারণত রোমান্টিক বা সামাজিক প্রভাব বিস্তারের ক্ষেত্রে ব্যবহার করা হয়।
 
-*English:*
+English:
 "He’s got so much rizz, it’s no wonder everyone likes him."
 
-*Bangla:*
+Bangla:
 "তার অনেক rizz আছে, তাই সবাই তাকে পছন্দ করে।”
 
-- *Charm:* "Dude, you really got the rizz tonight!"
-- *Social Skill:* "She’s got mad rizz, everyone loves talking to her."`,
+- Charm: "Dude, you really got the rizz tonight!"
+- Social Skill: "She’s got mad rizz, everyone loves talking to her."`,
   },
   {
     word: 'Delulu',
     explanation: `Delulu - ইংরেজি ভাষায় "delulu" একটি স্ল্যাং শব্দ যা "delusional" (ভ্রান্ত) এর সংক্ষিপ্ত রূপ। এটি সাধারণত এমন কোনো ব্যক্তি বা অবস্থার বর্ণনা করতে ব্যবহৃত হয় যিনি বাস্তবতা থেকে বিচ্ছিন্ন বা অবাস্তব আশা করে।
 
-*English:*
+English:
 "She’s being so delulu if she thinks that’s going to work."
 
-*Bangla:*
+Bangla:
 "যদি সে মনে করে যে সেটা কাজ করবে, তবে সে পুরোপুরি delulu।"
 
-*Native Usage:*
-- *Unrealistic:* "You’re being delulu if you think you can finish the project in one night."
-- *Out of Touch:* "He’s delulu if he thinks everyone will agree with his plan."`,
+Native Usage:
+- Unrealistic: "You’re being delulu if you think you can finish the project in one night."
+- Out of Touch: "He’s delulu if he thinks everyone will agree with his plan."`,
   },
   {
     word: 'AF',
     explanation: `AF - ইংরেজি ভাষায় "AF" একটি স্ল্যাং শব্দ যা "as fuck"  এর সংক্ষিপ্ত রূপ। সাধারণত কোনো বিশেষণকে জোরালোভাবে প্রকাশ করতে ব্যবহৃত এটি হয়, যেমন কিছু খুবই এক্সট্রিম বা খুব বেশি।
 
-*English:*
+English:
 "I’m tired AF after that workout."
 
-*Bangla:*
+Bangla:
 "ওই ওয়ার্কআউটের পর আমি tired AF।"
 
-*Native Usage:*
-- *Intense:* "That movie was boring AF."
-- *Emphasized Feeling:* "I’m excited AF for the concert this weekend."`,
+Native Usage:
+- Intense: "That movie was boring AF."
+- Emphasized Feeling: "I’m excited AF for the concert this weekend."`,
   },
   {
     word: 'Cook',
     explanation: `Cook - ইংরেজি স্ল্যাংয়ে "cook" শব্দটি প্রায়ই ব্যবহার করা হয় যখন কেউ খুব ভালোভাবে বা দক্ষতার সাথে কিছু করে। সাধারণত মেধা বা পারফরম্যান্সকে প্রশংসা করার জন্য এটি ব্যবহৃত হয়।
 
-*English:*
+English:
 "She really cooked that presentation; it was impressive."
 
-*Bangla:*
+Bangla:
 "তার প্রেজেন্টেশনটা সত্যিই cook ছিল; এটি প্রশংসনীয় ছিল।" [cook দিয়ে বাংলায় উদাহারণ দিলে হাস্যকর শোনায়, তবুও দিলাম]
 
-*Native Usage:*
-- *Skillful Performance:* "He cooked that freestyle rap."
-- *Impressive Outcome:* "They cooked the game with that final move."`,
+Native Usage:
+- Skillful Performance: "He cooked that freestyle rap."
+- Impressive Outcome: "They cooked the game with that final move."`,
   },
   {
-    word: 'Mogged',
-    explanation: `Mogged - "মগড" (Mogged) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন একজন ব্যক্তি বা একটি জিনিস অন্যদের তুলনায় অনেক ভালো, উন্নত, বা বেশি প্রভাবশালী হিসেবে বিবেচিত হয়। এটি মূলত নিজেকে বা অন্য কাউকে উচ্চতর স্তরে তুলে ধরার জন্য ব্যবহৃত হয়।
+    word: 'Mog',
+    explanation: `Mog - "মগ" (Mog) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন একজন ব্যক্তি বা একটি জিনিস অন্যদের তুলনায় অনেক ভালো, উন্নত, বা বেশি প্রভাবশালী হিসেবে বিবেচিত হয়। এটি মূলত নিজেকে বা অন্য কাউকে উচ্চতর স্তরে তুলে ধরার জন্য ব্যবহৃত হয়।
 
 English:
 "He really mogged everyone at the meeting with his presentation; it was top-notch."
 
 Bangla:
-"ওই মিটিংয়ে তার প্রেজেন্টেশন দিয়ে সে আসলে সবাইকে মগড করেছে; এটা ছিল অসাধারণ।"
+"ওই মিটিংয়ে তার প্রেজেন্টেশন দিয়ে সে আসলে সবাইকে mogged করেছে; এটা ছিল অসাধারণ।"
 
 Native Usage:
 - Competitions: "He mogged the competition with his impressive performance."
@@ -125,21 +125,7 @@ Bangla:
 
 Native Usage:
 - Music: "Their new album is full of bangers; every track is a hit."
-- Events:"The party last night was a banger; everyone had an amazing time."`,
-  },
-  {
-    word: 'Rizz',
-    explanation: ` "রিজ" (Rizz) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় কারো আকর্ষণীয়তা, চমৎকার বাচনভঙ্গি, বা সামাজিক ক্ষমতা বর্ণনা করতে। এটি বিশেষ করে ব্যবহার করা হয় যখন কেউ অন্যদের কাছে বিশেষভাবে প্রভাবশালী বা মজারভাবে সামাজিকভাবে সফল হয়।
-
-English:
-"He has so much rizz; everyone at the party was drawn to him."
-
-Bangla:
-"তার অনেক রিজ আছে; পার্টির সব মানুষ তার প্রতি আকৃষ্ট হয়েছিল।"
-
-Native Usage:
-- Social Skills: "She used her rizz to charm everyone at the networking event."
-- Dating: "His rizz was evident on the date; he was effortlessly charming and engaging."`,
+- Events: "The party last night was a banger; everyone had an amazing time."`,
   },
   {
     word: 'Flex',
@@ -263,5 +249,57 @@ Native Usage:
 
 - Doubt: "You got a new car? That's cap, I don't believe you."
 - Truthfulness: "I'm telling you the truth, no cap."`,
+  },
+  {
+    word: 'Yeet',
+    explanation: ` "ইট" (Yeet) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কেউ কিছু দ্রুত বা শক্তি দিয়ে ফেলে দেয় বা ছুড়ে ফেলে। এটি প্রায়ই উত্তেজনা বা আনন্দের সাথে কিছু করার অভিব্যক্তি প্রকাশ করতে ব্যবহৃত হয়।
+
+English:
+"He was so excited about the game that he yeeted the ball across the field with all his strength."
+
+Bangla:
+"সে খেলা নিয়ে এতটাই উত্তেজিত ছিল যে পুরো শক্তি দিয়ে বলটি মাঠে ছুড়ে ফেলেছিল।"
+
+Native Usage:
+
+Sports: "The athlete yeeted the javelin far beyond the competition's mark."
+Everyday Actions: "When she got home, she yeeted her shoes off and collapsed onto the couch."`,
+  },
+  {
+    word: 'Yap',
+    explanation: `"ইয়াপ" (Yap) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কেউ অতিরিক্ত কথা বলে বা বেশি কথা বলার সময়। এটি সাধারণত ব্যবহৃত হয় যখন কেউ খুব বেশি বা অপ্রয়োজনীয়ভাবে কথা বলে এবং মাঝে মাঝে এটি বিরক্তিকর বা অস্বস্তিকর হতে পারে।
+
+English:
+"During the meeting, he couldn’t stop his yap about the project, and it started to get on everyone’s nerves."
+
+Bangla:
+"মিটিংয়ের সময়, সে প্রজেক্ট নিয়ে অতিরিক্ত yap করতে শুরু করেছিল যা সবার জন্য অস্বস্তিকর হয়ে উঠছিল।"
+
+Native Usage:
+- Social Settings: "She tends to yap a lot during social gatherings, which can sometimes be overwhelming."
+- Workplace: "His constant yap about office politics was distracting everyone from their tasks."`,
+  },
+  {
+    word: 'Gucci',
+    explanation: `গুচি (Gucci) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কিছু খুব ভালো, শানদার, বা বিলাসবহুল বোঝাতে। মূলত স্টাইলিশ বা উপভোগ্য কিছু প্রকাশ করতে ব্যবহৃত হয়, বিশেষ করে যখন কিছু আসলেই ভালো বা সঠিকভাবে ঘটে।
+
+English:
+"Everything is going so smoothly at work right now—it's all gucci"
+
+Bangla:
+"এখন কাজের সবকিছু এত ভালোভাবে চলছে—সবই gucci"
+
+Native Usage:
+
+General Context: "His new car is so gucci; it looks amazing and runs perfectly."
+Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."`,
+  },
+  {
+    word: '',
+    explanation: ``,
+  },
+  {
+    word: '',
+    explanation: ``,
   },
 ]
