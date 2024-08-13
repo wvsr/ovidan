@@ -350,4 +350,21 @@ Native Usage:
 - Online: "This meme is totally skibidi; it’s weird but you can’t stop watching it."
 - Pop Culture: "The skibidi trend has taken over TikTok—everyone's doing it."`,
   },
+  {
+    word: 'Mewing',
+    explanation: `Mewing এমন একটি ক্রিয়া যা মুখের ভিতর জিভের সঠিক পজিশনিং নির্দেশ করতে ব্যবহৃত হয়, যা মুখের এবং চোয়ালের গঠন আকর্ষনীয় করার লক্ষ্যে করা হয়। এটি মূলত অরো-ফেসিয়াল ব্যায়ামের একটি পদ্ধতি যেখানে জিভের সামনের অংশ উপরের তালুর সাথে লাগিয়ে রাখা হয় এবং মুখ বন্ধ রেখে নাক দিয়ে শ্বাস নেওয়া হয়।সেল্‌ফ ইম্পোভমেন্ট সেক্টরে বহুল আলোচিত একটি টেকনিক mewing.
+
+English:
+"Samin has been mewing for a few months now to improve his jawline."
+
+Bangla:
+"সামিন কয়েক মাস ধরে তার চোয়ালের আকৃতি আকর্ষনীয় করার জন্য mewing করছে।"
+
+Native Usage:
+
+- General Context: "I’ve heard mewing can really help with your jawline if you do it consistently."
+- Social Media: "Everyone on TikTok is talking about mewing and how it can change your face structure."
+- Fitness and Health: "Mewing is becoming a popular technique in the fitness community for enhancing facial aesthetics."
+- Personal Care: "He’s really into self-improvement, and now he’s added mewing to his daily routine."`,
+  },
 ]
