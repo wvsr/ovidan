@@ -294,4 +294,24 @@ Native Usage:
 General Context: "His new car is so gucci; it looks amazing and runs perfectly."
 Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."`,
   },
+  {
+    word: 'Gyatt',
+    explanation: `Gyatt একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কোনো ব্যক্তি বিশেষ করে একজন মহিলার শরীরের আকৃতি বা ফিগার খুব আকর্ষণীয় বা নজরকাড়া বলে মনে হয়। এটি বিশেষত পশ্চিমা স্ল্যাং সংস্কৃতিতে ব্যবহৃত হয়, যেখানে শারীরিক সৌন্দর্য বা আকর্ষণীয়তা প্রকাশ করতে এই শব্দটি প্রয়োগ করা হয়।
+
+English:
+"When she walked into the room, everyone couldn't help but notice—she's got that gyatt."
+
+Bangla:
+"যখন সে ঘরে ঢুকল, সবাই অবাক হয়ে তাকিয়ে থাকল—তার ফিগারটা সত্যিই gyatt"
+
+Native Usage:
+
+General Context:
+"He couldn't stop staring; her figure is just so gyatt."
+
+Social Situations:
+"Everyone at the beach was talking about her; she was the definition of gyatt in that swimsuit."`,
+  },
+  
+    
 ]
