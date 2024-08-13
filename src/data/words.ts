@@ -251,33 +251,21 @@ Native Usage:
 - Truthfulness: "I'm telling you the truth, no cap."`,
   },
   {
-    word: 'Yeet',
-    explanation: ` "ইট" (Yeet) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কেউ কিছু দ্রুত বা শক্তি দিয়ে ফেলে দেয় বা ছুড়ে ফেলে। এটি প্রায়ই উত্তেজনা বা আনন্দের সাথে কিছু করার অভিব্যক্তি প্রকাশ করতে ব্যবহৃত হয়।
-
-English:
-"He was so excited about the game that he yeeted the ball across the field with all his strength."
-
-Bangla:
-"সে খেলা নিয়ে এতটাই উত্তেজিত ছিল যে পুরো শক্তি দিয়ে বলটি মাঠে ছুড়ে ফেলেছিল।"
-
-Native Usage:
-
-Sports: "The athlete yeeted the javelin far beyond the competition's mark."
-Everyday Actions: "When she got home, she yeeted her shoes off and collapsed onto the couch."`,
-  },
-  {
     word: 'Yap',
-    explanation: `"ইয়াপ" (Yap) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কেউ অতিরিক্ত কথা বলে বা বেশি কথা বলার সময়। এটি সাধারণত ব্যবহৃত হয় যখন কেউ খুব বেশি বা অপ্রয়োজনীয়ভাবে কথা বলে এবং মাঝে মাঝে এটি বিরক্তিকর বা অস্বস্তিকর হতে পারে।
+    explanation: `Yap একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কেউ বেশি কথা বলে বা বারবার একই বিষয় নিয়ে কথা বলে বিরক্তির উদ্রেক করে। এটি মূলত অতিরিক্ত ও বিরক্তিকর কথা বলাকে বোঝাতে ব্যবহৃত হয়, বিশেষ করে যখন কেউ অনবরত কথা বলে এবং অন্যদের বিরক্ত করে।
 
 English:
-"During the meeting, he couldn’t stop his yap about the project, and it started to get on everyone’s nerves."
+"He just wouldn't stop talking about his new shoes—he kept yapping for hours."
 
 Bangla:
-"মিটিংয়ের সময়, সে প্রজেক্ট নিয়ে অতিরিক্ত yap করতে শুরু করেছিল যা সবার জন্য অস্বস্তিকর হয়ে উঠছিল।"
+"সে তার নতুন জুতোর কথা বলতেই থাকল—যেন থামতেই চায় না, yapping করেই চলেছে।"
 
 Native Usage:
-- Social Settings: "She tends to yap a lot during social gatherings, which can sometimes be overwhelming."
-- Workplace: "His constant yap about office politics was distracting everyone from their tasks."`,
+
+Workplace: "During the meeting, he just kept yapping about his new project ideas without giving anyone else a chance to speak."
+Friends Group: "Every time we hang out, he starts yapping about his latest achievements, and it gets a bit tiring."
+Family Gathering: "At the family dinner, she wouldn't stop yapping about her recent vacation, and everyone was getting a bit bored."
+Social Media: "He’s always yapping on his Twitter feed about the same topic, and it’s becoming quite repetitive."`,
   },
   {
     word: 'Gucci',
