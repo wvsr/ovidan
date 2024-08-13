@@ -127,7 +127,7 @@ Native Usage:
 - Music: "Their new album is full of bangers; every track is a hit."
 - Events:"The party last night was a banger; everyone had an amazing time."`,
   },
-    {
+  {
     word: 'Rizz',
     explanation: ` "রিজ" (Rizz) একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় কারো আকর্ষণীয়তা, চমৎকার বাচনভঙ্গি, বা সামাজিক ক্ষমতা বর্ণনা করতে। এটি বিশেষ করে ব্যবহার করা হয় যখন কেউ অন্যদের কাছে বিশেষভাবে প্রভাবশালী বা মজারভাবে সামাজিকভাবে সফল হয়।
 
@@ -140,5 +140,128 @@ Bangla:
 Native Usage:
 - Social Skills: "She used her rizz to charm everyone at the networking event."
 - Dating: "His rizz was evident on the date; he was effortlessly charming and engaging."`,
+  },
+  {
+    word: 'Flex',
+    description: `Flex একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় কারো ব্যক্তিগত অর্জন, ক্ষমতা, বা সম্পদ প্রদর্শনের ক্ষেত্রে। এটি এমন সময় ব্যবহৃত হয় যখন কেউ ইচ্ছাকৃতভাবে তার সাফল্য, ধন-সম্পদ, বা বিশেষ কোনো গুণকে তুলে ধরে।
+
+English:
+"He flexed his new car in front of everyone"
+
+Bangla:
+"সে সবার সামনে তার নতুন গাড়ি ফ্লেক্স করল"
+
+Native Usage:
+
+- Achievements: "He loves to flex his business accomplishments on social media."
+- Wealth: "She flexed her designer handbag collection during the dinner party."
+`,
+  },
+  {
+    word: 'Ghosted',
+    description: `Ghosted একটি স্ল্যাং শব্দ যা ব্যবহার করা হয় যখন কোনো ব্যক্তি হঠাৎ করে আরেকজনের সঙ্গে সমস্ত যোগাযোগ বন্ধ করে দেয়, কোনো ব্যাখ্যা ছাড়াই। সাধারণত, এটি কোনো রিলেশনশিপ বা বন্ধুত্বের ক্ষেত্রে ঘটে যখন একজন ব্যক্তির আচরণে অপ্রত্যাশিতভাবে নীরবতা নেমে আসে।
+
+English:
+"She thought everything was going well, but then he ghosted her out of nowhere."
+
+Bangla:
+"সে ভেবেছিল সবকিছু ঠিকঠাক চলছে, কিন্তু হঠাৎ করেই সে তাকে ঘোস্ট করল।"
+
+Native Usage:
+- Relationships: "He ghosted her after their third date, leaving her confused and hurt."
+- Friendships: "I thought we were close, but she ghosted me without any reason."
+`,
+  },
+  {
+    word: 'IRL',
+    description: `IRL একটি স্ল্যাং acronym যা "In Real Life" এর জন্য ব্যবহৃত হয়। এটি সাধারণত অনলাইন বা ভার্চুয়াল জগতের বাইরে, বাস্তব জীবনের অভিজ্ঞতা বা ঘটনার কথা উল্লেখ করার জন্য ব্যবহৃত হয়।
+
+English:
+"We've been chatting online for months, but we finally met IRL last weekend."
+
+Bangla:
+"আমরা মাসের পর মাস অনলাইনে চ্যাট করেছি, কিন্তু শেষ পর্যন্ত আমরা গত সপ্তাহে IRL দেখা করলাম।"
+
+Native Usage:
+
+- Events: "I saw my favorite YouTuber IRL at the concert, and it was amazing."
+- Social Interactions: "Online dating is one thing, but meeting someone IRL is totally different."`,
+  },
+  {
+    word: 'Slay',
+    description: `Slay একটি স্ল্যাং শব্দ যা ব্যবহৃত হয় যখন কেউ কোনো কাজ অত্যন্ত দক্ষতা সঙ্গে সম্পন্ন করে। এটি বিশেষত ব্যবহার করা হয় যখন কেউ ফ্যাশন, পারফরম্যান্স, বা ব্যক্তিগত স্টাইলে চমকপ্রদ সাফল্য দেখায়।
+
+English:
+"She absolutely slayed her performance at the talent show"
+
+Bangla:
+"সে ট্যালেন্ট শোতে তার পারফরম্যান্সে একদম Slay করল"
+
+Native Usage:
+
+- Fashion: "She slayed in that red dress at the party; all eyes were on her."
+- Achievements: "He slayed the presentation at work; the boss was really impressed."`,
+  },
+  {
+    word: 'TBH',
+    description: `TBH একটি স্ল্যাং acronym যা "To Be Honest" এর জন্য ব্যবহৃত হয়। এটি সাধারণত ব্যবহৃত হয় যখন কেউ তার মতামত বা অনুভূতি প্রকাশ করতে চায়, প্রায়ই এটি সরল বা সৎ বক্তব্যের আগে ব্যবহৃত হয়।
+
+English:
+"TBH, I wasn't really impressed with the movie."
+
+Bangla:
+"TBH, সিনেমাটি আমাকে সত্যিই তেমন প্রভাবিত করতে পারেনি।"
+
+Native Usage:
+
+- Opinions: "TBH, I think you could have done better on that project."
+- Honesty: "TBH, I’m not a big fan of spicy food, but I'll try it for you."
+`,
+  },
+  {
+    word: 'Vibin',
+    description: `Vibin একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহার করা হয় যখন কেউ কোনো বিশেষ মুহূর্তে উপভোগ করা বুঝাতে। এটি বিশেষত সঙ্গীত, পার্টি, বা বন্ধুত্বপূর্ণ পরিবেশে ব্যবহৃত হয় ।
+
+English:
+"We were just vibin' to some good music at the beach."
+
+Bangla:
+"আমরা সৈকতে শুধু ভালো মিউজিকের সাথে Vibin করছিলাম।"
+
+Native Usage:
+
+- Music: "He was vibin' to his favorite tracks all night."
+- Relaxation: "Just vibin' on the weekend with some close friends and good food."
+`,
+  },
+  {
+    word: 'Sis',
+    description: `Sis একটি স্ল্যাং শব্দ যা প্রায়শই বন্ধুত্ব বা ঘনিষ্ঠ সম্পর্কের ক্ষেত্রে ব্যবহৃত হয়, বিশেষ করে যখন কেউ তার বন্ধুকে বোনের মতো ঘনিষ্ঠ বা আপন মনে করে। 
+English:
+"Don't worry, sis, I've got your back."
+
+Bangla:
+"চিন্তা করো না, Sis, আমি তোমার পাশে আছি।"
+
+Native Usage:
+
+- Friendship: "Sis, you always know how to make me smile."
+- Support: "Thanks for helping me out, sis. You're the best!"
+`,
+  },
+  {
+    word: 'Cap',
+    description: `Cap একটি স্ল্যাং শব্দ যা সাধারণত মিথ্যা বা ভুল কিছু বোঝাতে ব্যবহৃত হয়। যখন কেউ বলে "ক্যাপ," তখন তারা বোঝাতে চায় যে অন্য কেউ সত্য বলছে না। এর বিপরীত হলো "No Cap" যা সত্য কিছু বোঝাতে ব্যবহৃত হয়।
+
+English:
+"He said he finished the project in one hour—no way, that's cap!"
+
+Bangla:
+"সে বলল যে সে এক ঘণ্টায় প্রজেক্টটা শেষ করেছে—এটা একদম Cap"
+
+Native Usage:
+
+- Doubt: "You got a new car? That's cap, I don't believe you."
+- Truthfulness: "I'm telling you the truth, no cap."`,
   },
 ]
