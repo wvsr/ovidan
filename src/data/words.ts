@@ -329,9 +329,9 @@ Bangla:
 
 Native Usage:
 
-General Context: "He’s always texting her and trying to impress her, even though she barely responds—total simp behavior."
-Social Situations: "At the party, he was constantly following her around and doing everything she wanted—classic simp."
-Workplace: "He’s always trying to get her attention by doing extra work, even though she doesn’t acknowledge it—definitely a simp."
-Online: "In the comments section, he’s always praising her posts and defending her, no matter what—he’s a simp."`,
+- General Context: "He’s always texting her and trying to impress her, even though she barely responds—total simp behavior."
+- Social Situations: "At the party, he was constantly following her around and doing everything she wanted—classic simp."
+- Workplace: "He’s always trying to get her attention by doing extra work, even though she doesn’t acknowledge it—definitely a simp."
+- Online: "In the comments section, he’s always praising her posts and defending her, no matter what—he’s a simp."`,
   },
 ]
