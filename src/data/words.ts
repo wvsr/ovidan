@@ -275,30 +275,27 @@ English:
 "Everything is going so smoothly at work right now—it's all gucci"
 
 Bangla:
-"এখন কাজের সবকিছু এত ভালোভাবে চলছে—সবই gucci"
+"এখন কাজের সবকিছু বেশ ভালোভাবে চলছে—সবই gucci"
 
 Native Usage:
 
 General Context: "His new car is so gucci; it looks amazing and runs perfectly."
-Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."`,
+Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."
+Travel: "The vacation was fantastic—every detail was planned so well, it was all gucci."`,
   },
   {
     word: 'Gyatt',
-    explanation: `Gyatt একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কোনো ব্যক্তি বিশেষ করে একজন মহিলার শরীরের আকৃতি বা ফিগার খুব আকর্ষণীয় বা নজরকাড়া বলে মনে হয়। এটি বিশেষত পশ্চিমা স্ল্যাং সংস্কৃতিতে ব্যবহৃত হয়, যেখানে শারীরিক সৌন্দর্য বা আকর্ষণীয়তা প্রকাশ করতে এই শব্দটি প্রয়োগ করা হয়।
+    explanation: `Gyatt একটি স্ল্যাং শব্দ যা ব্যবহৃত হয় যখন কোনো ব্যক্তি বিশেষ করে একজন মহিলার শরীরের আকৃতি বা ফিগার (সাধারণত পাছা) খুব আকর্ষণীয় বা নজরকাড়া বলে মনে হয়। "God Damn!" এর সংক্ষিপ্ত রুপ।
 
 English:
-"When she walked into the room, everyone couldn't help but notice—she's got that gyatt."
+"Everyone couldn’t help but notice her amazing figure—she’s got that gyatt!"
 
 Bangla:
-"যখন সে ঘরে ঢুকল, সবাই অবাক হয়ে তাকিয়ে থাকল—তার ফিগারটা সত্যিই gyatt"
+"সবার নজর তার দুর্দান্ত ফিগারে পড়েছে—তার পাছা পুরোই gyatt!"
 
 Native Usage:
-
-General Context:
-"He couldn't stop staring; her figure is just so gyatt."
-
-Social Situations:
-"Everyone at the beach was talking about her; she was the definition of gyatt in that swimsuit."`,
+Friends: "Dude, stop staring at that gyatt lady. That's creepy as hell, I swear."
+Social Situations: "Everyone at the beach was talking about her; she was the definition of gyatt in that swimsuit."`,
   },
   
     
