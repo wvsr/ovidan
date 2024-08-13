@@ -308,7 +308,7 @@ English:
 "I'm telling you, this new restaurant is amazing—no cap."
 
 Bangla:
-"বিশ্বাস কর ভাই, এই নতুন রেস্টুরেন্টটা অস্থির—no cap."
+"বিশ্বাস কর ভাই, এই নতুন রেস্টুরেন্টটা পুরা অস্থির—no cap."
 
 Native Usage:
 
@@ -316,5 +316,22 @@ Native Usage:
 - Social Situations: "I swear, that concert was the most fun I've had in years—no cap."
 - Workplace: "The new software update really improved performance—no cap."
 - Daily Life: "Her cooking skills are incredible—no cap."`,
+  },
+  {
+    word: 'Simp',
+    explanation: ` Simp একটি স্ল্যাং শব্দ যা ব্যবহার করা হয় যখন কেউ অন্য কাউকে অতিরিক্ত মনোযোগ দেয়, খুব বেশিই প্রশংসা করে বা সেই ব্যক্তির জন্য অত্যধিক পরিশ্রম করে, বিশেষ করে যখন সেই ব্যক্তি তার প্রতি তেমন কোনো আগ্রহই প্রকাশ করে না। অন্যভাবে বলা যায়, ন্যূনতম আত্মমর্যাদাহীন লুচ্চা।
+
+English:
+"He’s always buying that girl gifts and doing everything she asks—he’s such a simp."
+
+Bangla:
+"সে প্রায়ই ওই মেয়েটাকে হরেক জিনিস উপহার দেয় এবং মেয়েটা যা চায় তাই করে—শালায় সত্যিই একটা simp"
+
+Native Usage:
+
+General Context: "He’s always texting her and trying to impress her, even though she barely responds—total simp behavior."
+Social Situations: "At the party, he was constantly following her around and doing everything she wanted—classic simp."
+Workplace: "He’s always trying to get her attention by doing extra work, even though she doesn’t acknowledge it—definitely a simp."
+Online: "In the comments section, he’s always praising her posts and defending her, no matter what—he’s a simp."`,
   },
 ]
