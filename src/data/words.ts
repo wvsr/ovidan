@@ -297,6 +297,21 @@ Native Usage:
 Friends: "Dude, stop staring at that gyatt lady. That's creepy as hell, I swear."
 Social Situations: "Everyone at the beach was talking about her; she was the definition of gyatt in that swimsuit."`,
   },
-  
-    
+  {
+    word: 'No Cap',
+    explanation: `No cap একটি স্ল্যাং শব্দ যা সাধারণত ব্যবহৃত হয় যখন কেউ জোরালো ভাবে বলতে চায় যে সে সত্যি কথা বলছে। এটি মূলত ইঙ্গিত করে যে কথাটি পুরোপুরি সত্য এবং কোনো ধরনের বাড়াবাড়ি বা মিথ্যাচার নেই।
+
+English:
+"I'm telling you, this new restaurant is amazing—no cap."
+
+Bangla:
+"বিশ্বাস কর ভাই, এই নতুন রেস্টুরেন্টটা অস্থির—no cap."
+
+Native Usage:
+
+General Context: "That movie was one of the best I've ever seen—no cap."
+Social Situations: "I swear, that concert was the most fun I've had in years—no cap."
+Workplace: "The new software update really improved performance—no cap."
+Daily Life: "Her cooking skills are incredible—no cap."`,
+  },
 ]
