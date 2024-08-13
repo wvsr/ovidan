@@ -294,12 +294,4 @@ Native Usage:
 General Context: "His new car is so gucci; it looks amazing and runs perfectly."
 Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."`,
   },
-  {
-    word: '',
-    explanation: ``,
-  },
-  {
-    word: '',
-    explanation: ``,
-  },
 ]
