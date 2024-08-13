@@ -31,20 +31,6 @@ Love: "Good night, Pookie. I love you!"
 Comfort: "Don't worry, Pookie, everything will be okay."`,
   },
   {
-    word: 'TBH',
-    explanation: `TBH - ইংরেজি ভাষায় "TBH" হলো "to be honest" (সত্যি বলতে) এর সংক্ষিপ্ত রূপ। এটি সাধারণত ব্যবহার করা হয় যখন কেউ তার সৎ মতামত বা অনুভূতি শেয়ার করতে চায়।
-
-English:
-"TBH, I don't really like that restaurant."
-
-Bangla:
-"TBH, আমি আসলে ওই রেস্তোরাঁটা তেমন পছন্দ করি না।"
-
-Native Usage:
-- Honesty: "TBH, I wasn’t impressed by the presentation."
-- Casual: "TBH, I’m just not into that kind of music."`,
-  },
-  {
     word: 'Rizz',
     explanation: `Rizz - রিজ (Rizz) একটি স্ল্যাং শব্দ যা কারো আকর্ষণীয়তা, চমৎকার বাচনভঙ্গি, বা সামাজিক ক্ষমতা বোঝাতে ব্যবহৃত হয়; বিশেষ করে কাউকে প্রভাবিত বা আকৃষ্ট করার ক্ষমতা। এটি সাধারণত রোমান্টিক বা সামাজিক প্রভাব বিস্তারের ক্ষেত্রে ব্যবহার করা হয়।
 
@@ -366,5 +352,39 @@ Native Usage:
 - Social Media: "Everyone on TikTok is talking about mewing and how it can change your face structure."
 - Fitness and Health: "Mewing is becoming a popular technique in the fitness community for enhancing facial aesthetics."
 - Personal Care: "He’s really into self-improvement, and now he’s added mewing to his daily routine."`,
+  },
+  {
+    word: 'Red Flag',
+    explanation: `Red flag একটি স্ল্যাং বা অভিব্যক্তি যা কোনো সম্পর্ক, পরিস্থিতি বা কারো আচরণে সতর্কতা বা বিপদের সংকেত বোঝাতে ব্যবহৃত হয়। এটি এমন কিছু যা ভবিষ্যতে সমস্যার ইঙ্গিত বহন করে এবং তা থেকে দূরে থাকার জানান দেয়। সাধারণত এটি কোনো সম্পর্কে অপর ব্যাক্তির অস্বাভাবিক বা নেতিবাচক বৈশিষ্ট্য তুলে ধরতে ব্যবহার করা হয়।
+
+English:
+"She gets angry over the smallest things—that’s a red flag."
+
+Bangla:
+"মেয়েটা ছোটখাটো বিষয়েও রেগে একদশা হয়ে যায়—এটা তার একটা red flag."
+
+Native Usage:
+
+- Relationships: "If someone tries to control who you talk to, that’s a major red flag."
+- Friendship: "He never respects your time and always cancels plans at the last minute—definitely a red flag."
+- Workplace: "When your boss doesn’t acknowledge your hard work and always takes credit, it’s a red flag."
+- Dating: "If they’re constantly checking your phone without your permission, that’s a big red flag."`,
+  },
+  {
+    word: 'Green Flag',
+    explanation: `Green flag একটি স্ল্যাং শব্দ যা কোনো সম্পর্ক, পরিস্থিতি বা কারো আচরণে ইতিবাচক সংকেত বা স্বীকৃতি বোঝাতে ব্যবহৃত হয়। এটি এমন কিছু বোঝায় যা সঠিক, নিরাপদ, বা সমর্থনযোগ্য এবং তা থেকে ইতিবাচক ফলাফল আসার সম্ভাবনা থাকে। সাধারণত এটি সম্পর্ক বা ব্যক্তিগত মিথস্ক্রিয়ায় ব্যবহৃত হয় যেখানে কিছু ভালো এবং সুস্থ আচরণ লক্ষ্য করা যায়।
+
+English:
+"He always listens and supports your decisions—that’s a green flag."
+
+Bangla:
+"সে তো দেখি সবসময় তোমার কথা শুনে এবং তোমার সিদ্ধান্তকে সমর্থনও করে—এটা একটা green flag."
+
+Native Usage:
+
+- Relationships: "If someone communicates openly and honestly, that’s a major green flag."
+- Friendship: "She respects your boundaries and always makes time for you—definitely a green flag."
+- Workplace: "When your boss gives constructive feedback and supports your growth, that’s a green flag."
+- Dating: "If they make an effort to understand your feelings and show empathy, that’s a big green flag."`,
   },
 ]
