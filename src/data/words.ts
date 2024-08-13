@@ -262,10 +262,10 @@ Bangla:
 
 Native Usage:
 
-Workplace: "During the meeting, he just kept yapping about his new project ideas without giving anyone else a chance to speak."
-Friends Group: "Every time we hang out, he starts yapping about his latest achievements, and it gets a bit tiring."
-Family Gathering: "At the family dinner, she wouldn't stop yapping about her recent vacation, and everyone was getting a bit bored."
-Social Media: "He’s always yapping on his Twitter feed about the same topic, and it’s becoming quite repetitive."`,
+- Workplace: "During the meeting, he just kept yapping about his new project ideas without giving anyone else a chance to speak."
+- Friends Group: "Every time we hang out, he starts yapping about his latest achievements, and it gets a bit tiring."
+- Family Gathering: "At the family dinner, she wouldn't stop yapping about her recent vacation, and everyone was getting a bit bored."
+- Social Media: "He’s always yapping on his Twitter feed about the same topic, and it’s becoming quite repetitive."`,
   },
   {
     word: 'Gucci',
@@ -280,8 +280,8 @@ Bangla:
 Native Usage:
 
 General Context: "His new car is so gucci; it looks amazing and runs perfectly."
-Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."
-Travel: "The vacation was fantastic—every detail was planned so well, it was all gucci."`,
+- Social Situations: "We had a gucci time at the party; everything was perfect and everyone enjoyed themselves."
+- Travel: "The vacation was fantastic—every detail was planned so well, it was all gucci."`,
   },
   {
     word: 'Gyatt',
@@ -294,8 +294,8 @@ Bangla:
 "সবার নজর তার দুর্দান্ত ফিগারে পড়েছে—তার পাছা পুরোই gyatt!"
 
 Native Usage:
-Friends: "Dude, stop staring at that gyatt lady. That's creepy as hell, I swear."
-Social Situations: "Everyone at the beach was talking about her; she was the definition of gyatt in that swimsuit."`,
+- Friends: "Dude, stop staring at that gyatt lady. That's creepy as hell, I swear."
+- Social Situations: "Everyone at the beach was talking about her; she was the definition of gyatt in that swimsuit."`,
   },
   {
     word: 'No Cap',
@@ -309,9 +309,9 @@ Bangla:
 
 Native Usage:
 
-General Context: "That movie was one of the best I've ever seen—no cap."
-Social Situations: "I swear, that concert was the most fun I've had in years—no cap."
-Workplace: "The new software update really improved performance—no cap."
-Daily Life: "Her cooking skills are incredible—no cap."`,
+- General Context: "That movie was one of the best I've ever seen—no cap."
+- Social Situations: "I swear, that concert was the most fun I've had in years—no cap."
+- Workplace: "The new software update really improved performance—no cap."
+- Daily Life: "Her cooking skills are incredible—no cap."`,
   },
 ]
