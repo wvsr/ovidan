@@ -455,4 +455,23 @@ Native Usage:
 - Friendship: "You got straight A’s on your report card? Sheesh, that’s amazing!"
 - Pop Culture: "That outfit is so stylish—sheesh, you’re killing it!"`,
   },
+  {
+    word: 'Low Key',
+    explanation: `Low-key ব্যবহার করা হয় যখন কেউ কোনো কিছু বোঝাতে চায় কিন্তু সেটা খুব জোর দিয়ে বলতে চায় না বা খুব বেশি গুরুত্ব দিতে চায় না। ক্ষুদ্র পরিসর বা বিনয় প্রকাশে ব্যবহৃত হয়। অনেক ক্ষেত্রে আলোচ্য বিষয়ের গোপনীয়তা বা এটেনশনের স্বল্পতা বোঝায়। ব্যক্তির ক্ষেত্রে ব্যবহার করলে তা তার শান্ত, বিনয়ী ও সরল স্বভাবকে বিশেষায়িত করে।
+
+English:
+"I’m low-key proud of how well I did on that ICT test."
+"Dr. Yunus really is a low-key person, right?"
+
+Bangla:
+"আমি low-key(কিছুটা) গর্বিত যে ওই ICT পরীক্ষায় এত ভালো করেছি।"
+"ড. ইয়নূস সত্যিই একজন low-key (বিনয়ী) লোক, তাই না?"
+
+Native Usage:
+
+- General Context: "She’s low-key planning a surprise party, but she doesn’t want everyone to know yet."
+- Social Situations: "I’m low-key interested in that new show, but I haven’t told anyone yet."
+- Feelings: "He’s low-key nervous about the interview, but he’s trying to stay calm."
+- Preferences: "I low-key love this new song, but I haven’t added it to my playlist yet."`,
+  },
 ]
