@@ -438,4 +438,21 @@ Native Usage:
 - Social Media: "Whenever someone shares good news, they joke about paying the Fanum Tax to their friends."
 - Events: "Won big at the casino? Time to pay the Fanum Tax with a round of drinks for everyone!"`,
   },
+  {
+    word: 'Sheesh',
+    explanation: `Sheesh বিস্ময়, উত্তেজনা, বা প্রশংসা প্রকাশ করার জন্য ব্যবহৃত হয়। ভাওয়েলটাকে সাধারণত দীর্ঘ করে উচ্চারণ করা হয় (যেমন, "Sheeeeeesh!")।
+
+English:
+"Rafsan just bought a new Audi car, and it’s a luxury model—sheesh!"
+
+Bangla:
+"রাফসান একটা নতুন অডি গাড়ি কিনেছে, তাও আবার একটা বিলাসবহুল মডেল—sheesh!"
+
+Native Usage:
+
+- General Context: "You see that huge diamond ring she’s wearing? Sheesh, that’s impressive!"
+- Social Media: "He posted his gym progress, and everyone in the comments is like, 'Sheesh!'"
+- Friendship: "You got straight A’s on your report card? Sheesh, that’s amazing!"
+- Pop Culture: "That outfit is so stylish—sheesh, you’re killing it!"`,
+  },
 ]
