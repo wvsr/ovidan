@@ -421,4 +421,21 @@ Native Usage:
 - Pop Culture: "Only in Ohio would you find something this strange and funny."
 - Online Discussions: "People are sharing crazy things and saying, 'That’s so Ohio!'"`,
   },
+  {
+    word: 'Fanum Tax',
+    explanation: `Fanum Tax ইন্টারনেটে বা গেমিং কালচারে ব্যবহৃত একটি স্ল্যাং শব্দ যা বোঝায় একজন ব্যক্তি কিছু পেতে গেলে তার এক অংশ অন্য কাউকে দিতে হয় বা ভাগ করতে হয়। মূলত,এটি হাসি-ঠাট্টার ছলে বলা হয় যে কোনো কিছু পাওয়ার সাথে সাথেই তার কিছু অংশ "ট্যাক্স" হিসেবে বন্ধুদেরও অধিকার হিসেবে গণ্য হয়। এর বিবিধ ব্যবহারও রয়েছে বিভিন্ন সিচুয়েশনে।
+
+English:
+"Bro you bought a new laptop and now refusing to provide our deserved treat? Nevermind, we will make you pay the fanum tax!"
+
+Bangla:
+"নতুন ল্যাপটপ কিনেছিস কিন্তু ট্রিট দিতে নারাজ তুই? সমস্যা নাই দোস্ত, আমরা fanum tax আদায় করতে জানি!"
+
+Native Usage:
+
+- Gaming: "You just found a rare item? Better pay that Fanum Tax to the team!"
+- Friendship: "You got a whole pizza for yourself? Fanum Tax says you owe us a slice."
+- Social Media: "Whenever someone shares good news, they joke about paying the Fanum Tax to their friends."
+- Events: "Won big at the casino? Time to pay the Fanum Tax with a round of drinks for everyone!"`,
+  },
 ]
